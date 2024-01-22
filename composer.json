@@ -1,0 +1,13 @@
+{
+    "name": "root/html",
+    "description": "DI teszt",
+    "autoload": {
+        "psr-4": {
+           
+            "src\\": "src/"
+        }
+    },
+    "require": {
+        "psr/container": "^2.0"
+    }
+}
